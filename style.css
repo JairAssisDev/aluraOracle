@@ -1,16 +1,31 @@
 
-#banner{
-    width: 100%;
+header{
+    background: #c2ebce;
+    padding: 40px 0;
 }
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 0 0 0;
+}
+
 .principal{
     background: #cccccc;
     padding: 30px;
 }
 .titulo-principal{
-    padding-left: 20px;
+    padding-left: 40px;
+    font-size: 33px;
+    display: inline;
+    margin: 0 0 0 145px;
+    position: absolute;
+    top: 110px;
+    right: 0;
+    
 }
 .titulo-centralizado{
     text-align: center; 
+    font-size: 22px;
 }
 p{
     text-align: center;
@@ -32,7 +47,7 @@ ul{
     display: inline-block;
     vertical-align: top;
     width: 20%;
-    margin-right: 15%;
+    margin-right: 100px;
 }
 .imagembeneficios{
     width: 50%;
