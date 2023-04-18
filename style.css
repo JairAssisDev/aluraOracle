@@ -1,7 +1,7 @@
 
 header{
     background: #c2ebce;
-    padding: 40px 0;
+    padding: 20px 0;
 }
 .caixa{
     position: relative;
@@ -27,7 +27,7 @@ nav a:hover{
     padding: 30px;
 }
 .titulo-principal{
-    padding-left: 40px;
+    padding-left: 20px;
     font-size: 33px;
     display: inline;
     margin: 0 0 0 145px;
