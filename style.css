@@ -65,3 +65,14 @@ em strong{
 .imagembeneficios{
     width: 50%;
 }
+footer{
+    text-align: center;
+    background: url("/home/jair/Documentos/aluraOracle/img/bg.jpg");
+    padding: 40px 0;
+
+}
+.Copyright{
+    color: aliceblue;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
