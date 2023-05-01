@@ -21,6 +21,13 @@ nav a:hover{
     color: #c78c19;
     text-decoration: underline;
 }
+
+li a {
+    font-weight:bolder;
+    font-size: 20px;
+    text-decoration: none;
+}
+
 .produtos  {
     width: 940px;
     margin: 0 auto;

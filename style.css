@@ -13,6 +13,13 @@ nav{
     top: 110px;
     right: 0;
 }
+
+li a {
+    font-weight:bolder;
+    font-size: 20px;
+    text-decoration: none;
+}
+
 nav li {
     display: inline;
     margin: 0 0 0 15px;
