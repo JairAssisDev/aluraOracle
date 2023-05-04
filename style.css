@@ -30,26 +30,31 @@ nav a:hover{
     text-decoration: underline;
 }
 .principal{
-    background: #cccccc;
+    background: #ffffff;
     padding: 30px;
+    text-align: justify;
+
 }
-.titulo-principal{
-    padding-left: 20px;
-    font-size: 33px;
-    display: inline;
-    margin: 0 0 0 145px;
-    position: absolute;
-    top: 110px;
-    right: 0;
-    
+.titulo-principal {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+}
+.principal p {
+    margin: 0 20em 1em;
+}
+.principal strong {
+    font-weight: bold;
+}
+
+.principal em {
+    font-style: italic;
 }
 .titulo-centralizado{
     text-align: center; 
     font-size: 22px;
 }
-p{
-    text-align: center;
-}
+
 #missao{
     font-size: 20px;
 }
@@ -58,10 +63,14 @@ em strong{
 }
 .itens{
     font-style: italic;
+    
+
 }
 .beneficios{
     background: #ffffff;
-    padding: 20px;
+    padding: 30px;
+    margin: 0 20em 1em;
+
 }
 .listamisao{
     display: inline-block;
@@ -82,4 +91,11 @@ footer{
     color: aliceblue;
     font-size: 13px;
     margin: 20px 0 0;
+}
+/*css da página inicial*/
+.banner {
+    width:100%;
+}
+.imagembeneficios {
+    width: 60%
 }
